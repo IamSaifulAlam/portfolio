@@ -1,1 +1,63 @@
-# portfolio
+## About Me
+
+Hello! I'm a self-taught developer passionate about building things with code. My primary focus is on creating practical and efficient solutions using web technologies, and I'm actively expanding my skills into mobile and embedded systems development. I'm a strong believer in continuous learning and hands-on experience.
+
+## Skills
+
+**Programming Languages:**
+
+* JavaScript: Expert level, with extensive experience in modern ES6+ syntax.
+* HTML: Proficient in creating semantic and accessible web structures.
+* CSS: Skilled in designing and implementing responsive and visually appealing layouts.
+* Node.js: Experienced in building server-side applications and RESTful APIs using Express.js.
+* Kotlin: Basic understanding, currently focused on expanding knowledge for Android development.
+* C++: Basic understanding, currently focused on embedded systems and IoT projects.
+
+**Web Development:**
+
+* RESTful API Development: Designing and building APIs for various applications.
+* Front-End Development: Creating user interfaces with HTML, CSS, and JavaScript.
+* Responsive Design: Ensuring websites and applications work seamlessly across different devices.
+
+**Mobile Development:**
+
+* Android Development: Basic experience with Kotlin and Android Studio, building simple applications. Eager to learn more.
+
+**IoT/Embedded Systems:**
+
+* Basic understanding of C++ for microcontrollers (e.g., Arduino).
+* Experience with simple sensor integration and data processing.
+
+**Other Skills:**
+
+* Git: Proficient in version control for collaborative development.
+* Prompt Engineering: Skilled in communicating with AI models to generate desired outputs.
+* Problem-solving: Strong analytical and debugging abilities.
+
+## Projects
+
+Here are some of the projects I've worked on:
+
+* **[Project 1 Name]:**
+    * A [brief description - e.g., "responsive e-commerce website", "task management web application", "simple Android utility app"].
+    * Built with: [List technologies used - e.g., "React, Node.js, Express.js, PostgreSQL", "Kotlin, Android SDK", "C++, Arduino"].
+    * Key features: [Highlight 2-3 main features - e.g., "User authentication, product catalog, shopping cart", "RESTful API, data persistence, user roles", "Sensor data acquisition, real-time display"].
+    * [Link to the project repository or live demo, if available]
+* **[Project 2 Name]:**
+    * A [brief description].
+    * Built with: [List technologies used].
+    * Key features: [Highlight 2-3 main features]
+    * [Link]
+* **[Project 3 Name]:**
+    * A [brief description].
+    * Built with: [List technologies used].
+    * Key features: [Highlight 2-3 main features]
+    * [Link]
+
+## Connect with Me
+
+* [Your LinkedIn Profile URL]
+* [Your Portfolio Website URL, if you have one]
+* [Your Email Address]
+
+I'm always eager to collaborate on interesting projects and expand my network. Feel free to reach out!
