@@ -38,26 +38,8 @@ Hello! I'm a self-taught developer passionate about building things with code. M
 
 Here are some of the projects I've worked on:
 
-* **[Project 1 Name]:**
-    * A [brief description - e.g., "responsive e-commerce website", "task management web application", "simple Android utility app"].
-    * Built with: [List technologies used - e.g., "React, Node.js, Express.js, PostgreSQL", "Kotlin, Android SDK", "C++, Arduino"].
-    * Key features: [Highlight 2-3 main features - e.g., "User authentication, product catalog, shopping cart", "RESTful API, data persistence, user roles", "Sensor data acquisition, real-time display"].
-    * [Link to the project repository or live demo, if available]
-* **[Project 2 Name]:**
-    * A [brief description].
-    * Built with: [List technologies used].
-    * Key features: [Highlight 2-3 main features]
-    * [Link]
-* **[Project 3 Name]:**
-    * A [brief description].
-    * Built with: [List technologies used].
-    * Key features: [Highlight 2-3 main features]
-    * [Link]
-
 ## Connect with Me
 
-* [Your LinkedIn Profile URL]
-* [Your Portfolio Website URL, if you have one]
-* [Your Email Address]
+* 
 
 I'm always eager to collaborate on interesting projects and expand my network. Feel free to reach out!
