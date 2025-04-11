@@ -9,7 +9,7 @@ Hello! I'm a self-taught developer passionate about building things with code. M
 * JavaScript: Expert level, with extensive experience in modern ES6+ syntax.
 * HTML: Proficient in creating semantic and accessible web structures.
 * CSS: Skilled in designing and implementing responsive and visually appealing layouts.
-* Node.js: Experienced in building server-side applications and RESTful APIs using Express.js.
+* Node.js: Experienced in building server-side applications and RESTful APIs.
 * Kotlin: Basic understanding, currently focused on expanding knowledge for Android development.
 * C++: Basic understanding, currently focused on embedded systems and IoT projects.
 
@@ -34,12 +34,5 @@ Hello! I'm a self-taught developer passionate about building things with code. M
 * Prompt Engineering: Skilled in communicating with AI models to generate desired outputs.
 * Problem-solving: Strong analytical and debugging abilities.
 
-## Projects
-
-Here are some of the projects I've worked on:
-
-## Connect with Me
-
-* 
 
 I'm always eager to collaborate on interesting projects and expand my network. Feel free to reach out!
