@@ -1,6 +1,6 @@
-## About Me
+## Hello!
 
-Hello! I'm a self-taught developer passionate about building things with code. My primary focus is on creating practical and efficient solutions using web technologies, and I'm actively expanding my skills into mobile and embedded systems development. I'm a strong believer in continuous learning and hands-on experience.
+I'm a self-taught developer passionate about building things with code. My primary focus is on creating practical and efficient solutions using web technologies, and I'm actively expanding my skills into mobile and embedded systems development. I'm a strong believer in continuous learning and hands-on experience.
 
 ## Skills
 
