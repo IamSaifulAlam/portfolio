@@ -57,8 +57,8 @@ To apply my skills in **full-stack web development** and continue growing as a v
 A personal portfolio built with **HTML, CSS, and JavaScript** to showcase projects and skills.  
 - Features a responsive design for mobile and desktop.  
 - Includes interactive project sections and a contact form.  
-- [Happy Captions](https://github.com/IamSaifulAlam/HappyCaptions)
-- [Scene Forge AI](https://github.com/IamSaifulAlam/SceneForgeAI)
+- [Happy Captions](https://github.com/IamSaifulAlam/HappyCaptions)[Visit](https://happy-captions.vercel.app/)
+- [Scene Forge AI](https://github.com/IamSaifulAlam/SceneForgeAI)[Visit](https://sceneforge.vercel.app/)
 
 ---
 
